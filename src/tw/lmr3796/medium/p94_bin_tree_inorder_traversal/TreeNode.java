@@ -1,4 +1,4 @@
-package tw.lmr3796.easy.p671_2nd_min_in_binary_tree;
+package tw.lmr3796.medium.p94_bin_tree_inorder_traversal;
 
 class TreeNode {
     int val;

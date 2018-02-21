@@ -1,4 +1,4 @@
-package tw.lmr3796.easy.p671_2nd_min_in_binary_tree;
+package tw.lmr3796.medium.p230_kth_min_in_bin_search_tree;
 
 class TreeNode {
     int val;

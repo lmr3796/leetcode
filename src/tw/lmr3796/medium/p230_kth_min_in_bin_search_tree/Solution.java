@@ -1,13 +1,8 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-class Solution {
+package tw.lmr3796.medium.p230_kth_min_in_bin_search_tree;
+
+import java.util.ArrayList;
+
+public class Solution {
     void inOrderTraversal(TreeNode root, ArrayList<Integer> queue, int limit) {
         if (queue.size() >= limit) {
             return;
