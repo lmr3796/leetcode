@@ -1,5 +1,7 @@
 package tw.lmr3796.medium.p230_kth_min_in_bin_search_tree;
 
+import tw.lmr3796.lib.binary_tree.TreeNode;
+
 import java.util.ArrayList;
 
 public class Solution {

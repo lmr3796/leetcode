@@ -2,7 +2,7 @@ package p687_longest_univalue_path;
 
 import spock.lang.Specification
 import tw.lmr3796.easy.p687_longest_univalue_path.Solution
-import tw.lmr3796.easy.p687_longest_univalue_path.TreeNode
+import tw.lmr3796.lib.binary_tree.TreeNode
 
 
 class Test extends Specification {

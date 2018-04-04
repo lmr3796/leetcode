@@ -1,4 +1,6 @@
 package tw.lmr3796.medium.p94_bin_tree_inorder_traversal;
+import tw.lmr3796.lib.binary_tree.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

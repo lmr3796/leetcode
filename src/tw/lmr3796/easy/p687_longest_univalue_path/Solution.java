@@ -1,5 +1,7 @@
 package tw.lmr3796.easy.p687_longest_univalue_path;
 
+import tw.lmr3796.lib.binary_tree.TreeNode;
+
 public class Solution {
     int searchAlong(TreeNode node, TreeNode parent) {
         if (node == null || node.val != parent.val) {

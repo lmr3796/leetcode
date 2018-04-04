@@ -3,6 +3,7 @@ package p671_2nd_min_in_binary_tree;
 import spock.lang.Specification
 import tw.lmr3796.easy.p671_2nd_min_in_binary_tree.Solution
 import tw.lmr3796.easy.p671_2nd_min_in_binary_tree.TreeNode
+import tw.lmr3796.lib.binary_tree.TreeNode
 
 
 class Test extends Specification {

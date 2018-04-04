@@ -1,6 +1,8 @@
 package tw.lmr3796.easy.p671_2nd_min_in_binary_tree;
 
 
+import tw.lmr3796.lib.binary_tree.TreeNode;
+
 public class Solution {
     static final int INVALID = -1;
     int search(TreeNode node, int min, int secondMin) {
